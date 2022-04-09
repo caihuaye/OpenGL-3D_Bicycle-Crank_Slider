@@ -31,6 +31,37 @@ cd "<path>" && g++ "<name>.cpp" -lGL -lGLU -lglut -o "<name>" && "./<name>"
 
 For Windows users, you can directly double-click the `<name>.exe` file to run.
 
+## myBicycle
+
+| Operate | Effect |
+| --- | --- |
+| Mouse Left Botton | Shift perspective |
+| Mouse Right Botton | Toggle the filling mode and speed gear |
+| w | Go ahead |
+| a | Turn left |
+| d | Turn right |
+| s | Stop |
+| r | Reset |
+| q | Exit |
+
+## myCrankSlider
+
+| Operate | Effect |
+| --- | --- |
+| Mouse Left Botton | Rotate it clockwise at an angle |
+| Mouse Right Botton | Shift perspective |
+| Mouse Wheel | Zoom in or out |
+| f | Zoom in |
+| g | Zoom out |
+| w | Toggle the filling mode |
+| Key Up | Rotate it clockwise at an angle |
+| Key Down | Rotate it counterclockwise at an angle |
+| Key Space | Rotate continuously clockwise |
+| Key Enter | Rotate continuously counterclockwise |
+| s | Stop |
+| r | Reset |
+| q | Exit |
+
 ## References
 
 [1] <http://www.ccbike.cc/bbs/?m=art&aid=2909>
